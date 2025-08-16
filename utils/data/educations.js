@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "BS Software Engineering",
+    duration: "2023 - Present",
+    institution: "The Islamia University of Bahawalpur",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Intermediate in Pre-Engineering",
+    duration: "2020 - 2022",
+    institution: "Aspire College Mian Channu",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "Matriculation in Science",
+    duration: "2018 - 2020",
+    institution: "Govt. Higher Secondary School Tulamba",
+  },
+];

@@ -88,14 +88,14 @@ import fastapi from '../app/assets/svg/skills/fastapi.svg'
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
-    case 'gcp':
-      return gcp;
+    // case 'gcp':
+    //   return gcp;
     case 'html':
       return html;
     case 'photoshop':
       return photoshop;
-    case 'docker':
-      return docker;
+    // case 'docker':
+    //   return docker;
     case 'illustrator':
       return illustrator;
     case 'adobe xd':
@@ -110,100 +110,100 @@ export const skillsImage = (skill) => {
       return javascript;
     case 'next js':
       return nextJS;
-    case 'nuxt js':
-      return nuxtJS;
+    // case 'nuxt js':
+    //   return nuxtJS;
     case 'react':
       return react;
-    case 'svelte':
-      return svelte;
+    // case 'svelte':
+    //   return svelte;
     case 'typescript':
       return typescript;
-    case 'vue':
-      return vue;
+    // case 'vue':
+    //   return vue;
     case 'bootstrap':
       return bootstrap;
-    case 'bulma':
-      return bulma;
-    case 'capacitorjs':
-      return capacitorjs;
-    case 'coffeescript':
-      return coffeescript;
-    case 'memsql':
-      return memsql;
+    // case 'bulma':
+    //   return bulma;
+    // case 'capacitorjs':
+    //   return capacitorjs;
+    // case 'coffeescript':
+    //   return coffeescript;
+    // case 'memsql':
+    //   return memsql;
     case 'mongodb':
       return mongoDB;
-    case 'mysql':
-      return mysql;
-    case 'postgresql':
-      return postgresql;
+    // case 'mysql':
+    //   return mysql;
+    // case 'postgresql':
+    //   return postgresql;
     case 'tailwind':
       return tailwind;
     case 'vitejs':
       return vitejs;
-    case 'vuetifyjs':
-      return vuetifyjs;
-    case 'c':
-      return c;
-    case 'c++':
-      return cplusplus;
-    case 'c#':
-      return csharp;
-    case 'dart':
-      return dart;
-    case 'go':
-      return go;
-    case 'java':
-      return java;
-    case 'kotlin':
-      return kotlin;
-    case 'julia':
-      return julia;
-    case 'matlab':
-      return matlab;
-    case 'php':
-      return php;
-    case 'prisma':
-      return prisma;
-    case 'python':
-      return python;
-    case 'ruby':
-      return ruby;
-    case 'swift':
-      return swift;
-    case 'adobe audition':
-      return adobeaudition;
+    // case 'vuetifyjs':
+    //   return vuetifyjs;
+    // case 'c':
+    //   return c;
+    // case 'c++':
+    //   return cplusplus;
+    // case 'c#':
+    //   return csharp;
+    // case 'dart':
+    //   return dart;
+    // case 'go':
+    //   return go;
+    // case 'java':
+    //   return java;
+    // case 'kotlin':
+    //   return kotlin;
+    // case 'julia':
+    //   return julia;
+    // case 'matlab':
+    //   return matlab;
+    // case 'php':
+    //   return php;
+    // case 'prisma':
+    //   return prisma;
+    // case 'python':
+    //   return python;
+    // case 'ruby':
+    //   return ruby;
+    // case 'swift':
+    //   return swift;
+    // case 'adobe audition':
+    //   return adobeaudition;
     case 'aws':
       return aws;
-    case 'deno':
-      return deno;
-    case 'django':
-      return django;
+    // case 'deno':
+    //   return deno;
+    // case 'django':
+      // return django;
     case 'firebase':
       return firebase;
-    case 'gimp':
-      return gimp;
+    // case 'gimp':
+    //   return gimp;
     case 'git':
       return git;
-    case 'graphql':
-      return graphql;
-    case 'lightroom':
-      return lightroom;
+    // case 'graphql':
+    //   return graphql;
+    // case 'lightroom':
+    //   return lightroom;
     case 'materialui':
       return materialui;
-    case 'nginx':
-      return nginx;
-    case 'numpy':
-      return numpy;
-    case 'opencv':
-      return opencv;
-    case 'premiere pro':
-      return premierepro;
-    case 'pytorch':
-      return pytorch;
-    case 'selenium':
-      return selenium;
-    case 'strapi':
-      return strapi;
+    // case 'nginx':
+    //   return nginx;
+    // case 'numpy':
+    //   return numpy;
+    // case 'opencv':
+    //   return opencv;
+    // case 'premiere pro':
+    //   return premierepro;
+    // case 'pytorch':
+    //   return pytorch;
+    // case 'selenium':
+    //   return selenium;
+    // case 'strapi':
+    //   return strapi;
     case 'tensorflow':
       return tensorflow;
     case 'webix':
@@ -212,46 +212,46 @@ export const skillsImage = (skill) => {
       return wordpress;
     case 'azure':
       return azure;
-    case 'blender':
-      return blender;
-    case 'fastify':
-      return fastify;
+    // case 'blender':
+    //   return blender;
+    // case 'fastify':
+    //   return fastify;
     case 'figma':
       return figma;
-    case 'flutter':
-      return flutter;
-    case 'haxe':
-      return haxe;
-    case 'ionic':
-      return ionic;
-    case 'markdown':
-      return markdown;
+    // case 'flutter':
+    //   return flutter;
+    // case 'haxe':
+    //   return haxe;
+    // case 'ionic':
+    //   return ionic;
+    // case 'markdown':
+    //   return markdown;
     case 'microsoft office':
       return microsoftoffice;
-    case 'picsart':
-      return picsart;
-    case 'sketch':
-      return sketch;
-    case 'unity':
-      return unity;
-    case 'wolframalpha':
-      return wolframalpha;
+    // case 'picsart':
+    //   return picsart;
+    // case 'sketch':
+    //   return sketch;
+    // case 'unity':
+    //   return unity;
+    // case 'wolframalpha':
+    //   return wolframalpha;
     case 'canva':
       return canva;
-    case 'pandas':
-      return pandas;
-    case 'sklearn':
-      return scikitlearn;
-    case '.net':
-      return dotnet;
-    case '.net core':
-      return dotnetcore
-    case 'kubernetes':
-      return kubernetes;
+    // case 'pandas':
+    //   return pandas;
+    // case 'sklearn':
+    //   return scikitlearn;
+    // case '.net':
+    //   return dotnet;
+    // case '.net core':
+    //   return dotnetcore
+    // case 'kubernetes':
+    //   return kubernetes;
     case 'linux':
       return linux;
-    case 'sqlalchemy':
-      return sqlalchemy;
+    // case 'sqlalchemy':
+    //   return sqlalchemy;
     case 'fastapi':
       return fastapi;
     default:

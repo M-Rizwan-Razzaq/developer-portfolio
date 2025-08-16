@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "Muhammad Rizwan",
+  profile: "/Rizwan.jpg",
+  designation: "Software Engineer",
+  description:
+    "My name is M. Rizwan. I'm a passionate and enthusiastic programmer with a strong interest in web development. I have a self-learning mindset and love exploring new technologies. I enjoy solving problems and building creative solutions using JavaScript and modern frameworks like React, Angular, and Next.js. I'm always open to opportunities that match my skills and help me grow as a developer.",
+  email: "codebyrizwan072@gmail.com",
+  phone: "+923066592403",
+  address: "Lahore, Pakistan",
+  github: "https://github.com/M-Rizwan-Razzaq",
+  facebook: "https://www.facebook.com/rizwan.razzaq.7771",
+  linkedIn: "https://www.linkedin.com/in/muhammad-rizwan-861201285/",
+  twitter: "https://x.com/rizwanrazzaq56",
+  stackOverflow: "https://stackoverflow.com/users/24687611/muhammad-rizwan",
+  leetcode: "https://leetcode.com/u/M_Rizwan_Razzaq/",
+  devUsername: "Rizwan508",
+  resume:
+    "https://drive.google.com/file/d/1O100nQPntBRDsJJmjXklk8rmmoAjViWo/view?usp=sharing",
+};
